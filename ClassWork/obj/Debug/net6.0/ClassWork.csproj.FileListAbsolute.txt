@@ -1,0 +1,14 @@
+C:\Users\ca.r214.03\Desktop\Work\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.exe
+C:\Users\ca.r214.03\Desktop\Work\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.deps.json
+C:\Users\ca.r214.03\Desktop\Work\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.runtimeconfig.json
+C:\Users\ca.r214.03\Desktop\Work\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.dll
+C:\Users\ca.r214.03\Desktop\Work\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.pdb
+C:\Users\ca.r214.03\Desktop\Work\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.03\Desktop\Work\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.AssemblyInfoInputs.cache
+C:\Users\ca.r214.03\Desktop\Work\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.AssemblyInfo.cs
+C:\Users\ca.r214.03\Desktop\Work\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.03\Desktop\Work\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.dll
+C:\Users\ca.r214.03\Desktop\Work\ClassWork\ClassWork\obj\Debug\net6.0\refint\ClassWork.dll
+C:\Users\ca.r214.03\Desktop\Work\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.pdb
+C:\Users\ca.r214.03\Desktop\Work\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.genruntimeconfig.cache
+C:\Users\ca.r214.03\Desktop\Work\ClassWork\ClassWork\obj\Debug\net6.0\ref\ClassWork.dll
